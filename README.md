@@ -21,6 +21,11 @@ Segunda parte:
 - Rutas públicas y rutas privadas
 - Utilización de "Context" y de "Reducer" en la aplicación
 - Login y Logout de la aplicación
+- Guardar en memoria la última pagína visitada
+
+Tercera parte:
+- Trabajar con imágenes de una forma distinta (Utilizando helpers -> Característica Webpack)
+- He arreglado un fallo al cargar las imágenes con .default
 
 ## Hora de testear
 Correr todos los tests:
