@@ -18,9 +18,9 @@ Primera parte:
 - Utilización custom Hook para formularios useForm, filtros y uso de "location" para info de la URL
 
 Segunda parte:
--
--
--
+- Rutas públicas y rutas privadas
+- Utilización de "Context" y de "Reducer" en la aplicación
+- Login y Logout de la aplicación
 
 ## Hora de testear
 Correr todos los tests:
