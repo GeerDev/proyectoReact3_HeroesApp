@@ -30,3 +30,5 @@ Tercera parte:
 ## Hora de testear
 Correr todos los tests:
 ### `npm run test`
+*Nota: He comentado la parte de la importación de imagenes utilizando Webpack para poder pasar los tests de esta parte, para el
+futuro debería revisar la parte de testear Webpack.
